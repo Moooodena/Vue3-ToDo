@@ -2,7 +2,7 @@
 
 该功能使用Vue3开发
 
-
+克隆或者下载后：
 
 ## Project setup
 
